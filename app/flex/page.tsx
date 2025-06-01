@@ -26,14 +26,11 @@ export default function Flex() {
           <div className="basis-64 flex-none bg-indigo-600 rounded-lg text-center">
             01
           </div>
-          <div className="basis-64 shrink bg-indigo-600 rounded-lg text-center">
+          <div className="basis-64 flex-none bg-indigo-600 rounded-lg text-center">
             02
           </div>
           <div className="basis-64 flex-none bg-indigo-600 rounded-lg text-center">
             03
-          </div>
-          <div className="basis-64 flex-none bg-indigo-600 rounded-lg text-center">
-            04
           </div>
         </div>
       </div>
